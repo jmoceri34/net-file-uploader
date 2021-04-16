@@ -6,4 +6,4 @@
 
 <a name="overview"></a>
 ## Overview
-.NET file uploader for 3.5 and 4.5
+.NET file uploader for 3.5 and 4.5. Please see project for both versions and how to use.
